@@ -6,8 +6,8 @@ class Allergies {
 
     private int score;
 
-    Allergies(int score) {
-        this.score = score;
+    Allergies(int scoreInput) {
+        score = scoreInput;
     }
 
     List<Allergen> getList() {
