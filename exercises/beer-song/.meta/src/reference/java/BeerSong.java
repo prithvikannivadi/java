@@ -21,6 +21,7 @@ class BeerSong {
         }
 
         return songOutput.toString();
+        return 0;
     }
 
     String singSong() {
