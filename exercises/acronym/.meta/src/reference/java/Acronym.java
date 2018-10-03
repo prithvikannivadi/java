@@ -9,7 +9,7 @@ final class Acronym {
         acronym = generateAcronym(phrase);
     }
 
-    String get() {
+    String getAcronym() {
         return acronym;
     }
 
