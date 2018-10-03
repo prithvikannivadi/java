@@ -3,7 +3,7 @@ import static java.lang.Math.pow;
 class ArmstrongNumbers {
 
 	boolean isArmstrongNumber(int numberToCheck) {
-		
+		int number2 = 2;
 		int number = numberToCheck;
 		int calculation = 0;
 		int length = String.valueOf(number).length();
