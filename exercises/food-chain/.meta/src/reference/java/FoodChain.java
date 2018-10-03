@@ -9,7 +9,8 @@ class FoodChain {
         "cat",
         "dog",
         "goat",
-        "cow"
+        "cow",
+        "chicken"
     };
 
     private static final String[] FOLLOWUPS = {
